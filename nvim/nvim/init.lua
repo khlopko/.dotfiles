@@ -1,2 +1,2 @@
-require("khlopko")
+require("config.lazy")
 
